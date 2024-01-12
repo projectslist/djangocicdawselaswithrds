@@ -13,6 +13,7 @@ env:
   POSTGRESQL_PASSWORD: 0yPTzgo8DHOpCpRsD6s2
   POSTGRESQL_HOST: 127.0.0.1
   POSTGRESQL_PORT: 5432
+  SECRET_KEY : django-insecure-8_emcre52kq$x#5^+-=4n=ujcb=r=w0^m56k#6hi-d6k_9r!@7
 
 jobs:
   build:
