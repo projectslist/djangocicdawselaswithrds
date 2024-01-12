@@ -1,13 +1,19 @@
 asgiref
 
+certifi
+
+coverage
 cryptography
 
 Django
 
 django-cors-headers
 django-environ
+django-extensions
 
 environ
 
 psycopg2-binary
+
+requests
 
